@@ -1,0 +1,8 @@
+LICENSE
+dist/
+gitrecovery.egg-info/
+gitrecovery/__init__.py
+gitrecovery1.egg-info/
+gitrecovery_NerdPraise.egg-info/
+setup.py
+build/
