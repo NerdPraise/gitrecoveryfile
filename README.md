@@ -1,11 +1,11 @@
-#
-###RECOVER YOUR FILES
+#Gitrecover
+### RECOVER YOUR FILES
 
 A simple python recovery tool for git 
 
-###Getting Started
+### Getting Started
 
-gitrecover was written for python 3
+Gitrecover was written for python 3
 
 All you need to do is 
     from recover import RecoverFile
