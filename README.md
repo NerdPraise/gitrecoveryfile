@@ -1,4 +1,4 @@
-#Gitrecover
+# Gitrecover
 ### RECOVER YOUR FILES
 
 A simple python recovery tool for git 
