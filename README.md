@@ -9,6 +9,10 @@ Gitrecover was written for python 3
 
 All you need to do is 
     
-    from recover import RecoverFile
+    pip install gitrecovery1
+
+Then in the directory where the files were deleted
+    
+    from gitrecovery.recover import RecoverFile
     files = RecoverFile()
     files.recover_git_files()
